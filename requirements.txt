@@ -1,0 +1,11 @@
+torch==2.2.1+cu121
+transformers==4.39.3
+datasets==2.18.0
+accelerate==0.28.0
+bitsandbytes==0.43.0
+peft==0.10.0
+tqdm
+requests
+ninja
+scipy
+tensorboard
